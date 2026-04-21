@@ -1,0 +1,6 @@
+module services
+
+singleton Theme 1.0 Theme.qml
+singleton ResourceMonitor 1.0 ResourceMonitor.qml
+singleton AudioService 1.0 AudioService.qml
+singleton SystemInfo 1.0 SystemInfo.qml

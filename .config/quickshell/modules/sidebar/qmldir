@@ -1,0 +1,8 @@
+module modules.sidebar
+
+ArcProgressBar 1.0 ArcProgressBar.qml
+VitalRow 1.0 VitalRow.qml
+SystemVitals 1.0 SystemVitals.qml
+NetworkSpeed 1.0 NetworkSpeed.qml
+Sidebar 1.0 Sidebar.qml
+PowerButton 1.0 PowerButton.qml
