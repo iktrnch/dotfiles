@@ -12,17 +12,21 @@ center = [ "Tempo" ]
 right = ["SystemInfo", "Tray", "Privacy", "Settings" ]
 
 [appearance]
-font_name = "JetBrains Mono NL"
+font_name = "JetBrainsMonoNL Nerd Font"
 style = "Islands"
 
 success_color = "#a6e3a1"
 text_color = "#cdd6f4"
 
-workspace_colors = [ "#fab387", "#b4befe", "#cba6f7" ]
+workspace_colors = [ "#b4befe", "#fab387", "#cba6f7" ]
 
 [appearance.primary_color]
 base = "#fab387"
 text = "#1e1e2e"
+
+[appearance.secondary_color]
+base = "#11111b"
+strong = "#1b1b25"
 
 [appearance.danger_color]
 base = "#f38ba8"
@@ -32,7 +36,3 @@ weak = "#f9e2af"
 base = "#1e1e2e"
 weak = "#313244"
 strong = "#45475a"
-
-[appearance.secondary_color]
-base = "#11111b"
-strong = "#1b1b25"
